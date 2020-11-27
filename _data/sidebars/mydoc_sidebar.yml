@@ -28,30 +28,19 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: Introduction to API documentation 
+      url: /api_introduction.html
       output: web, pdf
 
     - title: Supported documentation
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
-
-  - title: Release Notes
+  - title: Release Notes Writing 
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: Release Notes for APIs
+      url: /release_notes_api.html
       output: web, pdf
 
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
