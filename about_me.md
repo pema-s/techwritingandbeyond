@@ -7,6 +7,8 @@ permalink: about_me.html
 
 ---
 
+![Pema](/assets/images/Pema_display_pic.png)
+
 Hola! 
 
 I'm a technical writer by luck and a tech docs ethusiast by choice. I love all things doc and I'm on the path to learning developer to create docs that matter!
