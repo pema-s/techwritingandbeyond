@@ -1,5 +1,5 @@
 ---
-title: "A Note from a Tech Writer"
+title: "Welcome to TWB"
 keywords: technical writer, technical documentation, tech docs
 tags: [getting_started]
 sidebar: mydoc_sidebar
