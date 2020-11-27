@@ -11,6 +11,6 @@ permalink: about_me.html
 
 **Hola!** 
 
-I'm a technical writer by luck and a tech docs ethusiast by choice. I love all things docs and I'm on the path to learning developer experience to create docs that matter!
+I'm a Technical Writer by luck and a tech docs ethusiast by choice. I love all things documentation and I'm on the path to learning developer experience to create docs that matter!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pema-sherpa-technical-writer/)
