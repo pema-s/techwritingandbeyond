@@ -2,7 +2,9 @@
 title: "About me"
 keywords: "technical, writer, documentation"
 tags: [getting_started]
+sidebar: mydoc_sidebar
 permalink: about_me.html
+
 ---
 
 Hola! 
