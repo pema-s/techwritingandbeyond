@@ -1,4 +1,8 @@
 ---
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sumana&display=swap');
+</style>
+
 title: "Welcome to Tech Writing and Beyond"
 keywords: technical writer
 sidebar: mydoc_sidebar

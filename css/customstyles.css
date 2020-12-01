@@ -422,7 +422,7 @@ ul#mysidebar {
 }
 
 span.projectTitle {
-    font-family: Helvetica;
+    font-family: 'Sumana', serif;
     font-weight: bold;
 }
 
@@ -927,7 +927,8 @@ span.soft {
 /* this part adds an icon after external links, using FontAwesome*/
 a[href^="http://"]:after, a[href^="https://"]:after {
     content: "\f08e";
-    font-family: FontAwesome;
+    font-family:'Sumana', serif;
+;
     font-weight: normal;
     font-style: normal;
     display: inline-block;
