@@ -1,10 +1,9 @@
 ---
 title: An Introduction to API Documentation
-sidebar: mydoc_sidebar
-permalink: mydoc_introduction.html
+permalink: api_introduction.html
 keywords: technical, writer, api, documentation
 sidebar: mydoc_sidebar
-folder: mydoc
+folder: techwritingandbeyond
 ---
 
 > Before you begin
