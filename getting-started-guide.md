@@ -1,12 +1,11 @@
+---
 title: "How to create a Getting Started guide for API Docs"
 keywords: "api documentation, api, documentation, dev docs, developer, documentation, technical, writers" 
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: getting-started-guide.html
-summary: Hi there! 
-This is a space where I record insights, learnings and personal notes taken in the course of my work as a Technical Writer. Feel free to look around, send me buzz (if you like) and let me know if you'd like to see something on this space.
-
-Hope you find something useful here!:) 
+folder: techwritingandbeyond
+---
 
 ### 1. Download the theme
 
