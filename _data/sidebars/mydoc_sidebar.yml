@@ -26,7 +26,6 @@ entries:
     - title: Creating a Getting Started Guide
       url: /getting-started-guide.html
       output: web, pdf
-      type: homepage
 
     - title: Introduction to API documentation 
       url: /api_introduction.html
