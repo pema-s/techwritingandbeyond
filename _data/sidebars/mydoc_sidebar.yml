@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Creating a Getting Started Guide
-      url: /getting-started-guide.html
+      url: /../../getting-started-guide.html
       output: web, pdf
       type: homepage
 
