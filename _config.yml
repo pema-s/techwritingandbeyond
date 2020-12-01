@@ -12,12 +12,6 @@ site_title: Tech Writing and Beyond
 company_name: Tech Writing and Beyond
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-
-# gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-
 google_analytics: UA-66296557-1
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
@@ -108,7 +102,6 @@ sidebars:
 description: "Personal blog sharing technical writing tip and tricks"
 
 # needed for sitemap.xml file only
-# url: http://idratherbewriting.com
 # baseurl: /documentation-theme-jekyll
 
 
