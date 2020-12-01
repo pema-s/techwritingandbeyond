@@ -24,12 +24,12 @@ entries:
     folderitems:
 
     - title: Creating a Getting Started Guide
-      url: /pages/mydoc/getting-started-guide.html
+      url: /../../../../getting-started-guide.html
       output: web, pdf
       type: homepage
 
     - title: Introduction to API documentation 
-      url: /pages/mydoc/api_introduction.html
+      url: ../../../../api_introduction.html
       output: web, pdf
 
     - title: Supported documentation
