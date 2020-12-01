@@ -44,14 +44,15 @@ feedback_email: pema1988@gmail.com
 highlighter: rouge
 # library used for syntax highlighting
 
+plugins: 
+   - Jekyll-seo-tag 
 markdown: kramdown
 kramdown:
  input: GFM
  auto_ids: true
  hard_wrap: false
  syntax_highlighter: rouge
-plugins: 
-   - Jekyll-seo-tag 
+
 
 # filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
 
@@ -80,7 +81,12 @@ defaults:
       layout: "page"
       search: true
       tooltip: true
-
+ -
+    scope:
+      path: "assets/images"
+      type: 
+    values: 
+      image: true
   -
     scope:
       path: ""
