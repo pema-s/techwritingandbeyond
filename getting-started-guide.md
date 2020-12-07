@@ -7,8 +7,8 @@ permalink: getting-started-guide.html
 folder: techwritingandbeyond
 ---
 ## How to create a Getting Started guide for your API Documentation
-Reading time: 5 mins <br>
-Writing for: Developers new to your API or solution.
+**Reading time**: 5 mins <br>
+**Writing for**: Developers new to your API or solution.
 
 So you have auto generated your API documentation from the code source and everyone loves it! It’s easy to assume that auto generated API docs are enough to get your users to start using it but without explaining some basic how-tos about using the APIs, it will never serve the purpose.  
 
@@ -18,9 +18,10 @@ As with all things, the devil “lies in the details” so having a well detaile
 
 This post attempts to list down the most common sections worth including in your “Getting Started” guide so that you can give a great head-start to your API consumers. Every Getting Started guide will be different. However, in essence what you should solve for are:
 
-Self-starter: Ensure your documentation allows the developer to start the API integration without having to consult anyone. 
+- Making API docs self-serving: Ensure your documentation allows the developer to start the API integration without having to consult anyone. 
+- Building confidence in new developers: Setting the ground clearly with Getting Started guide makes a new developer want to try out without any second thoughts. Imagine you're the developer user and you're able to get a clear understanding of errors that you might run into if you do something wrong and how to resolve them. Wouldn't it really make you want to give it a shot?   
 
-
+Some specific categories of information you can add to your Getting Started guide for your APIs are given below: 
 
 ### Define the Base URL
 A really great approach to starting your API documentation is clearly calling out the API base URL. Defining this in the start of the document makes it super easy to refer as that’s practically the first thing a developer will need. 
@@ -46,7 +47,6 @@ Some insights you might want to use to document this are:
 Example:
 
 The Stripe API docs begin by stating the Base URL first. Below is a screenshot of how they’ve shown that information: 
-
 
 
 - How it works and what they need to do (Authentication header) 
