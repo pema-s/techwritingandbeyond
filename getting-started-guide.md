@@ -7,7 +7,7 @@ permalink: getting-started-guide.html
 folder: techwritingandbeyond
 ---
 ## How to create a Getting Started guide for your API Documentation
-Reading time: 5 mins
+Reading time: 5 mins <br>
 Writing for: Developers new to your API or solution.
 
 So you have auto generated your API documentation from the code source and everyone loves it! It’s easy to assume that auto generated API docs are enough to get your users to start using it but without explaining some basic how-tos about using the APIs, it will never serve the purpose.  
