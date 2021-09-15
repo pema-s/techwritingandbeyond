@@ -7,10 +7,10 @@ permalink: about_me.html
 
 ---
 
-![Pema](/assets/images/Pema_display_pic.png)
+![Pema](/images/Pema_display_pic.png)
 
 **Hola!** 
 
-I'm a Technical Writer by luck and a tech docs ethusiast by choice. I love all things documentation and I'm on the path to learning developer experience to create docs that matter!
+I'm a Technical Writer by luck and a tech docs ethusiast by choice. I love all things documentation and I'm on the path to learn developer experience to create docs that matter!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pema-sherpa-technical-writer/)

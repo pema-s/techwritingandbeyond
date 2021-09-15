@@ -39,7 +39,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Release Notes for APIs
+    - title: Changelog for APIs
       url: /release_notes_api.html
       output: web, pdf
 

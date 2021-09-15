@@ -5,8 +5,9 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/pemasp/techwritingandbeyond
+      
     - title: About me
-      url: about_me
+      url: /about_me
 
 #Topnav dropdowns
 topnav_dropdowns:
